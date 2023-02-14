@@ -1,5 +1,5 @@
 # Java.FinalTask
-Java Executable Language 
+Java.Executable Language 
 Final Task
 	
 • Think about the structure of the Notebook class for the hardware store – mark out fields and methods. 
